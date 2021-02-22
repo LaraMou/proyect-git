@@ -42,6 +42,9 @@ git config --global user.name "Alan Sastre"
 git config --global user.email alan@alansastre.co
 git config --global core.filemode false
 
+se van a realizar cambios interesantes
+
+
 
 
 
