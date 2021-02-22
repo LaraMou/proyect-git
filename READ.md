@@ -37,10 +37,7 @@ Integridad: cada confirmación genera su checksum
 se ha de cambiar en esta parte para ver como se efectuan los commit
 
 ####Comandos 
-`git config --global user.name "Master"
-git config --global user.email alan@alansastre.co
-git config --global core.filemode false
-`
+
 
 
 
